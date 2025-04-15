@@ -5,3 +5,7 @@
   --font-poppins: "Poppins", sans-serif;
   --font-instrument: "Instrument Serif", serif;
 }
+
+body {
+  background-color: #FFF6F6;
+}
